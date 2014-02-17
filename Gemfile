@@ -11,8 +11,8 @@ end
 
 group :development do
 	gem 'pro'
-	gem 'pry-doc'
 	gem 'pry-rails'
+	gem 'pry-doc'
 end
 
 gem 'jquery-rails'
