@@ -10,7 +10,7 @@ group :assets do
 end
 
 group :development do
-	gem 'pro'
+	gem 'pry'
 	gem 'pry-rails'
 	gem 'pry-doc'
 end
